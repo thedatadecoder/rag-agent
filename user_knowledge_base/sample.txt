@@ -1,0 +1,10 @@
+LangChain is a framework for developing applications powered by language models.
+It offers modules for chaining LLM calls, document retrieval, agents, and memory.
+It supports OpenAI, Cohere, HuggingFace models and more.
+
+Company Name: Acme Corp
+Refund Policy: Customers can request a refund within 30 days of purchase by emailing support@acme.com.
+Support Hours: Monday to Friday, 9am to 5pm.
+
+Ibuprofen is a nonsteroidal anti-inflammatory drug (NSAID) used to relieve pain and reduce fever or inflammation.
+The usual dose for adults is 200–400 mg every 4–6 hours.
